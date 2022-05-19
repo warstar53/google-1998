@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+div #images {
+    width: 351;
+    height: 113;
+}
+
+table {
+    border: 0;
+    width: 100%;
+
+}
+
+#fs {
+    background-color: #EEEEEE;
+    
+}
+
+#ilk {
+    width: 37%;
+    background-color: #82e2d9;
+}
+#orta {
+    background-color: #82e2d9;
+    text-align: center;
+}
+#db {
+   text-align: center;
+   background-color: #82e2d9;
+}
+p {
+    font-size: -1;
+    text-align: center;
+
+}
